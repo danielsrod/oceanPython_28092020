@@ -9,3 +9,11 @@ numero_decimal = 5.233
 vivo = True
 
 print(variavel, numero, nome, numero_decimal, vivo)
+
+x = int(input(": "))
+
+def showNumber():
+    print("Mostrando numero")
+    print(x)
+
+showNumber()
