@@ -1,4 +1,4 @@
-print("Hello World!")
+'''print("Hello World!")
 
 # Variáveis: armazenar informações na memória (RAM) para utilizar depois
 
@@ -15,5 +15,13 @@ x = int(input(": "))
 def showNumber():
     print(f"Mostrando numero: {x}")
 
-showNumber()
+showNumber()'''
+
+# Importando bibliotecas
+# Algumas bibliotecas ja são built-in (ja vem com o python)
+
+# Importa a biblioteca inteira
+import datetime #importa
+# Importa a função datetime da biblioteca datetime com o nome dt (a parte de nomeação é opcional
+from datetime import datetime as dt
 
