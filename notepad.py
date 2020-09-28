@@ -8,7 +8,7 @@ nome = "Daniel"
 numero_decimal = 5.233
 vivo = True
 
-print(variavel, numero, nome, numero_decimal, vivo)
+print(variavel, numero, nome.upper(), numero_decimal, vivo)
 
 x = int(input(": "))
 
