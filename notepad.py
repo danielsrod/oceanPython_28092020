@@ -13,7 +13,7 @@ print(variavel, numero, nome, numero_decimal, vivo)
 x = int(input(": "))
 
 def showNumber():
-    print("Mostrando numero")
-    print(x)
+    print(f"Mostrando numero: {x}")
 
 showNumber()
+
